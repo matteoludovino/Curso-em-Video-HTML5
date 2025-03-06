@@ -1,7 +1,6 @@
 <div align="center">
-<h1> <img src="https://imgur.com/fHF5fu9.png" width="250px"><br/>Curso de HTML5</h1>
+<h1> <img src="https://imgur.com/uGzTCi3.png" width="250px"><br/>Curso de HTML5</h1>
 </div>
-
 
 # ▸ Descrição
 Exercicios do Curso HTML5
@@ -17,7 +16,7 @@ Durante o curso foram abordados os seguintes temas:
 
 # ▸ Screenshots
  <img src="https://imgur.com/NTVRvkN.png"> <img src="https://imgur.com/M8eCJa3.png">
- <img src="https://imgur.com/6MYRoU6.png">
+ <img src="https://imgur.com/2Dmoxwn.png">
 
 # ▸ Techs Used
 <a href="https://skillicons.dev">
