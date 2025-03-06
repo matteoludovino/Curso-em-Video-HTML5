@@ -3,10 +3,10 @@
 </div>
 
 
-# Descrição
+# ▸ Descrição
 Exercicios do Curso HTML5
 
-# Características
+# ▸ Características
 Ministrado por Gustavo Guanabara o curso foi realizado através do site Curso em Vídeo.
 Durante o curso foram abordados os seguintes temas:
 - Conceitos.
@@ -15,11 +15,11 @@ Durante o curso foram abordados os seguintes temas:
 - Hospedagem.
 - Manipulação de Caracteres.
 
-# Screenshots
+# ▸ Screenshots
  <img src="https://imgur.com/NTVRvkN.png"> <img src="https://imgur.com/M8eCJa3.png">
  <img src="https://imgur.com/6MYRoU6.png">
 
-# Tech Used
+# ▸ Techs Used
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </a>
