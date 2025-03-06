@@ -24,7 +24,7 @@ Durante o curso foram abordados os seguintes temas:
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </a>
       
-# Mais detalhes:
+# ▸ Mais detalhes:
 100% Aproveitamento
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=curso&message=concluido&color=GREEN&style=for-the-badge)<br>
