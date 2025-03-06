@@ -12,7 +12,7 @@ Durante o curso foram abordados os seguintes temas:
 - Formatação.
 - Semântica.
 - Hospedagem.
-- Manipulação de Caracteres.
+- Integração entre techs.
 
 # ▸ Screenshots
  <img src="https://imgur.com/NTVRvkN.png"> <img src="https://imgur.com/M8eCJa3.png">
